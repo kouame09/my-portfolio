@@ -1024,23 +1024,6 @@ section {
   color: #fff;
 }
 
-.team .member .social {
-  margin-top: 15px;
-}
-
-.team .member .social a {
-  transition: color 0.3s;
-  color: #fff;
-}
-
-.team .member .social a:hover {
-  color: #9eccf4;
-}
-
-.team .member .social i {
-  font-size: 16px;
-  margin: 0 2px;
-}
 
 @media (max-width: 992px) {
   .team .member {
